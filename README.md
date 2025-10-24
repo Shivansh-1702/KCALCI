@@ -2,7 +2,7 @@
 
 A professional Android calorie and protein tracking application powered by **GitHub Models** (free GPT-4o-mini & GPT-4.1) for intelligent nutrition estimation.
 
-##  Download
+#  Download
 👉 **[Download the latest KCALCI APK here](https://github.com/Shivansh-1702/KCALCI/releases)**
 
 After installing, generate your free **GitHub Personal Access Token (PAT)** at
