@@ -5,7 +5,8 @@ A professional Android calorie and protein tracking application powered by **Git
 ##  Download
 👉 **[Download the latest KCALCI APK here](https://github.com/Shivansh-1702/KCALCI/releases)**
 
-After installing, generate your free **GitHub Personal Access Token (PAT)** at 
+After installing, generate your free **GitHub Personal Access Token (PAT)** at
+
 **[GENERATE API HERE](https://github.com/settings/personal-access-tokens)** — this token lets the app use GitHub Models for AI-powered calorie and protein estimation.
 
 ##  Features
